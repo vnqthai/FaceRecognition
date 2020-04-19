@@ -1,13 +1,3 @@
-#  This file follows instruction here:
-#  https://www.analyticsvidhya.com/blog/2018/08/a-simple-introduction-to-facial-recognition-with-python-codes
-#  Contains the code for a building a straightforward face recognition system using the face_recognition library.
-
-
-#  Usage:
-#  $ cd face-recognition-1
-#  $ python3 face-recognition-1.py my_image_1.jpg
-
-
 # import the libraries
 import os
 import sys
