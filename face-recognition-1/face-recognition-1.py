@@ -4,7 +4,8 @@
 
 
 #  Usage:
-#  $ python3 simple_introduction.py my_image_1.jpg
+#  $ cd face-recognition-1
+#  $ python3 face-recognition-1.py my_image_1.jpg
 
 
 # import the libraries
